@@ -1,8 +1,8 @@
 {
-  "name": "My First Gatsby Site...",
+  "name": "My-First-Gatsby-Site",
   "version": "1.0.0",
   "private": true,
-  "description": "My First Gatsby Site......",
+  "description": "My First Gatsby Site",
   "author": "Mahir Shahriar",
   "keywords": [
     "gatsby"
